@@ -1,1 +1,173 @@
 
+[
+   {
+      "countryTitle":"BOLLYWOOD MOVIES",
+      "countryId":"1",
+      "allCountryItemList":[
+         {
+    "movieName": "Tera Kya Hoga Lovely",
+    "type": "Comedy - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/TeraKyaHogaLovely(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/TeraKyaHogaLovely(2024)/TeraKyaHogaLovely(2024)_720p.m3u8"
+  },
+		{
+    "movieName": "Silence 2: The Night Owl Bar Shootout",
+    "type": "Action - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Silence2TheNightOwlBarShootout(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Silence2TheNightOwlBarShootout(2024)/720p.m3u8"
+  },
+		{
+    "movieName": "Siren 108",
+    "type": "Action - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Siren108(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Siren108(2024)/720p.m3u8"
+  },
+		{
+    "movieName": "Manjummel Boys",
+    "type": "Drama - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/ManjummelBoys(2024)/cover.webp",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/ManjummelBoys(2024)/720p.m3u8"
+  },
+		{
+    "movieName": "Tillu Square",
+    "type": "Drama - Romance / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/TilluSquare(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/TilluSquare(2024)/720p.m3u8"
+  },
+		{
+    "movieName": "Bade Miyan Chote Miyan",
+    "type": "Action - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/BadeMiyanChoteMiyan(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/BadeMiyanChoteMiyan(2024)/720p.m3u8"
+  },
+		{
+    "movieName": "Fighter",
+    "type": "Action - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Fighter(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Fighter(2024)/720p.m3u8"
+  },
+		{
+    "movieName": "Yodha",
+    "type": "Action - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Yodha(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Yodha(2024)/720p.m3u8"
+  },
+		{
+    "movieName": "Shaitaan",
+    "type": "Horror - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Shaitaan(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Shaitaan(2024)/720p.m3u8"
+  },
+		{
+    "movieName": "Maidaan",
+    "type": "Drama - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Maidaan(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Maidaan(2024)/720p.m3u8"
+  },
+		{
+    "movieName": "Teri Baaton Mein Aisa Uljha Jiya",
+    "type": "Comedy - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/TeriBaatonMeinAisaUljhaJiya(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/TeriBaatonMeinAisaUljhaJiya(2024)/720p.m3u8"
+  },
+		{
+    "movieName": "Antony",
+    "type": "Action - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Antony(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/indian/2024/Antony(2024)/Antony(2024)_720p.m3u8"
+  }
+      ]
+   },
+   {
+      "countryTitle":"HOLLYWOOD MOVIES",
+      "countryId":"2",
+      "allCountryItemList":[
+         {
+    "movieName": "Furiosa: A Mad Max Saga",
+    "type": "Action - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/FuriosaAMadMaxSaga(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/FuriosaAMadMaxSaga(2024)/FuriosaAMadMaxSaga(2024)_720p.m3u8"
+  },
+		{
+    "movieName": "Tarot",
+    "type": "Horror - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/Tarot(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/Tarot(2024)/Tarot(2024)_720p.m3u8"
+  },
+		{
+    "movieName": "HitMan",
+    "type": "Action - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/HitMan(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/HitMan(2024)/HitMan(2024)_720p.m3u8"
+  },
+		{
+    "movieName": "Dune: Part Two",
+    "type": "Action - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/DunePartTwo(2024)/cover.jpeg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/DunePartTwo(2024)/DunePartTwo(2024)_720p.m3u8"
+  },
+		{
+    "movieName": "The Wages of Fear",
+    "type": "Action - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/TheWagesofFear(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/TheWagesofFear(2024)/TheWagesofFear(2024)_720p.m3u8"
+  },
+		{
+    "movieName": "The Tearsmith",
+    "type": "Drama - Romance / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/TheTearsmith(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/TheTearsmith(2024)/TheTearsmith(2024)_720p.m3u8"
+  },
+		{
+    "movieName": "Through My Window 3: Looking at You",
+    "type": "Drama - Romance / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/ThroughMyWindow3LookingatYou(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/ThroughMyWindow3LookingatYou(2024)/720p.m3u8"
+  },
+		{
+    "movieName": "The Beekeeper",
+    "type": "Action - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/TheBeekeeper(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/TheBeekeeper(2024)/TheBeekeeper(2024)_720p.m3u8"
+  },
+		{
+    "movieName": "Rebel Moon: The Scargiver",
+    "type": "Action - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/RebelMoonTheScargiver(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/RebelMoonTheScargiver(2024)/RebelMoonTheScargiver(2024)_720p.m3u8"
+  },
+		{
+    "movieName": "Trigger Warning",
+    "type": "Action - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/TriggerWarning(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/TriggerWarning(2024)/TriggerWarning(2024)_720p.m3u8"
+  },
+		{
+    "movieName": "Under Paris",
+    "type": "Horror - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/UnderParis(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/UnderParis(2024)/UnderParis(2024)_720p.m3u8"
+  },
+		{
+    "movieName": "Wanted Man",
+    "type": "Action - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/WantedMan(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/WantedMan(2024)/WantedMan(2024)_720p.m3u8"
+  },
+		{
+    "movieName": "The Fall Guy",
+    "type": "Action - Thriller / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/TheFallGuy(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/TheFallGuy(2024)/TheFallGuy(2024)_720p.m3u8"
+  },
+		{
+    "movieName": "Mean Girls",
+    "type": "Drama - Romance / 2024",
+    "imageUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/MeanGirls(2024)/cover.jpg",
+    "videoUrl": "https://storage.googleapis.com/mfdataapi/movies/english/2024/MeanGirls(2024)/MeanGirls(2024)_720p.m3u8"
+        }    
+      ]
+   }
+]
+   
+
