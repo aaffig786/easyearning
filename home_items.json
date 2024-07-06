@@ -1,19 +1,17 @@
 
 [
-   {
+   {	 "typeId":"1",
       "allCountryItemList":[
-         {
-		 "typeId":"1",
+         {	
 	 "movieName":"Test",
     "imageUrl": "https://storage.googleapis.com/mfdataapi/xxxhub/real/a_real_unfaithful_wife_brought_home_a_stranger._husband_at_work_HD/cover.jpg"
 	 }
 	      
       ]
    },
-   {
+   {	 "typeId":"2",
       "allCountryItemList":[
-         {
-		 "typeId":"2",
+         {	
 	 "movieName":"Test",
     "imageUrl": "https://storage.googleapis.com/mfdataapi/xxxhub/real/cheating_wife_HD/cover.jpg"
   }
