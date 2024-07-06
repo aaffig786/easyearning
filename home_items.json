@@ -1,7 +1,6 @@
 
 [
    {
-      "typeId":"1",
       "allCountryItemList":[
          {
 		 "typeId":"1",
@@ -12,10 +11,9 @@
       ]
    },
    {
-      "typeId":"2",
       "allCountryItemList":[
          {
-		 "typeId":"1",
+		 "typeId":"2",
 	 "movieName":"Test",
     "imageUrl": "https://storage.googleapis.com/mfdataapi/xxxhub/real/cheating_wife_HD/cover.jpg"
   }
