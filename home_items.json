@@ -88,5 +88,14 @@
             "imageUrl": "https://storage.googleapis.com/mfdataapi/xxxhub/cover/roughcover.jpg"
          }
       ]
+   },
+   {
+      "typeId": "11",
+      "allCountryItemList": [
+         {
+            "movieName": "Shoplifter Girls",
+            "imageUrl": "https://storage.googleapis.com/mfdataapi/xxxhub/cover/shopliftercover.jpg"
+         }
+      ]
    }
 ]
