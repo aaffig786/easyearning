@@ -61,5 +61,14 @@
             "imageUrl": "https://storage.googleapis.com/mfdataapi/xxxhub/cover/naturecover.jpg"
          }
       ]
+   },
+   {
+      "typeId": "8",
+      "allCountryItemList": [
+         {
+            "movieName": "Sex in Public",
+            "imageUrl": "https://storage.googleapis.com/mfdataapi/xxxhub/cover/publiccover.jpg"
+         }
+      ]
    }
 ]
