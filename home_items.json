@@ -70,5 +70,14 @@
             "imageUrl": "https://storage.googleapis.com/mfdataapi/xxxhub/cover/publiccover.jpg"
          }
       ]
+   },
+   {
+      "typeId": "9",
+      "allCountryItemList": [
+         {
+            "movieName": "Romantic & Passionate",
+            "imageUrl": "https://storage.googleapis.com/mfdataapi/xxxhub/cover/publiccover.jpg"
+         }
+      ]
    }
 ]
